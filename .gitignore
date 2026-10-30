@@ -1,0 +1,13 @@
+# Kredensial lokal
+/secrets.h
+
+# Hasil kompilasi dapat memuat kredensial
+/build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# File sementara
+*~
+.DS_Store
